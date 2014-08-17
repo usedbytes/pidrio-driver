@@ -1,0 +1,4 @@
+TODO
+====
+* Add devicetree support
+* Remove module attributes for brightness. Use only LED framework.
